@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.disable": [
+        "need-check-nil",
+        "different-requires"
+    ],
+    "Lua.diagnostics.globals": [
+        "app",
+        "checkWlroots"
+    ]
+}

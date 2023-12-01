@@ -1,0 +1,1 @@
+./assets/luastatic  src/main.lua src/*.lua lgi/*.lua lgi/override/*.lua src/lgi.lua ./assets/libcorelgilua51.a -llua5.1 -lffi -lglib-2.0  -lgmodule-2.0 $(pkg-config --libs gtk+-3.0) $(pkg-config --cflags --libs gobject-introspection-1.0) -lglib-2.0 -lgobject-2.0 -I/usr/include/lua5.1/ -o bin/main

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=luadock
+Comment=Another one bites the dust
+Path=/usr/bin
+Exec=luadock
+Icon=firefox
+Terminal=false
+Categories=Education;Languages;Java;
