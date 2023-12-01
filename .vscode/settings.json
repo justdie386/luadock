@@ -6,5 +6,9 @@
     "Lua.diagnostics.globals": [
         "app",
         "checkWlroots"
-    ]
+    ],
+    "editor.formatOnType": true,
+    "[lisp]": {
+        "editor.wordSeparators": "`|;:'\",()"
+    }
 }
