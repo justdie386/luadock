@@ -1,5 +1,5 @@
 #!/usr/bin/env lua
-
+-- Thanks to the luastatic project for providing this easy to use script!
 -- The author disclaims copyright to this source code.
 
 -- The C compiler used to compile and link the generated C source file.
